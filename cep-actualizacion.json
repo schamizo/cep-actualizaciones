@@ -1,6 +1,6 @@
 {
- "version": "3.2.1",
- "archivo": "cep-3.2.1.neu",
- "sha256": "584da108b6a68eb05af568ef0a3bf7e3f7ea7ba808e654f57b0d65ec2456f003",
- "notas": "Pregunta siempre al importar"
+ "version": "3.3.0",
+ "archivo": "cep-3.3.0.neu",
+ "sha256": "a8e99167dc27cf7d0604f9ca1559a27b7bd408f3d5935386fe7d011fe5c27018",
+ "notas": "Papelera, deshacer importación, comprobación, novedades, ayuda y tamaño del texto"
 }
