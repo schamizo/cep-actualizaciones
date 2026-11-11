@@ -1,6 +1,6 @@
 {
- "version": "3.2.0",
- "archivo": "cep-3.2.0.neu",
- "sha256": "469a1fa1eae145f4c8a8bdd980217a42b0a46c3f4b376139cb38f6f986f6e9a1",
- "notas": "Importar sin borrar y arreglo de clics"
+ "version": "3.2.1",
+ "archivo": "cep-3.2.1.neu",
+ "sha256": "584da108b6a68eb05af568ef0a3bf7e3f7ea7ba808e654f57b0d65ec2456f003",
+ "notas": "Pregunta siempre al importar"
 }
