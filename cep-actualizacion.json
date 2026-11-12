@@ -1,6 +1,6 @@
 {
- "version": "3.5.0",
- "archivo": "cep-3.5.0.neu",
- "sha256": "8adb28c9fbfe8a11774f08c60cf9cdd13331f24352590c95edf92bd740ab4f53",
- "notas": "Expediente, historial de cambios y anular licencias"
+ "version": "3.6.0",
+ "archivo": "cep-3.6.0.neu",
+ "sha256": "3c6ab0c08762df1e2ddc600725f7b182f17341b2aa47f1d197c0e5adebfd91ce",
+ "notas": "Mapa real de empresas"
 }
